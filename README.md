@@ -89,17 +89,28 @@ El pipeline incluye manejo básico de errores:
 ## 🗂️ Estructura del Proyecto
 
 
-data_pipeline/
+gestion-ingesta-datos-/
+
 │── data/
+
 │ └── clima_santiago.csv
+
 │── logs/
+
 │ └── pipeline.log
+
 │── src/
-│ ├── extract.py
-│ ├── transform.py
-│ ├── load.py
-│ └── main.py
+
+| ├── extract.py
+
+| ├── transform.py
+
+| |── load.py
+
+| |── main.py
+
 │── requirements.txt
+
 │── README.md
 
 
