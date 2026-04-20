@@ -1,0 +1,6 @@
+2026-04-20 13:44:19,769 - INFO - === INICIO DEL PIPELINE ===
+2026-04-20 13:44:19,769 - INFO - Iniciando extracción de datos...
+2026-04-20 13:44:19,886 - INFO - Datos obtenidos correctamente: 10 registros
+2026-04-20 13:44:19,890 - INFO - Guardando datos en CSV...
+2026-04-20 13:44:19,892 - INFO - Datos guardados correctamente en ../data/users.csv
+2026-04-20 13:44:19,892 - INFO - === FIN DEL PIPELINE ===
