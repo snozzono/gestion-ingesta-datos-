@@ -4,3 +4,10 @@
 2026-04-20 13:44:19,890 - INFO - Guardando datos en CSV...
 2026-04-20 13:44:19,892 - INFO - Datos guardados correctamente en ../data/users.csv
 2026-04-20 13:44:19,892 - INFO - === FIN DEL PIPELINE ===
+2026-04-20 13:51:44,467 - INFO - === INICIO PIPELINE CLIMA CHILE ===
+2026-04-20 13:51:44,467 - INFO - Iniciando extracción de datos climáticos...
+2026-04-20 13:51:44,930 - INFO - Datos obtenidos correctamente
+2026-04-20 13:51:44,936 - INFO - Guardando datos en CSV...
+2026-04-20 13:51:44,938 - INFO - Datos guardados correctamente en ../data/clima_santiago.csv
+2026-04-20 13:51:44,938 - INFO - Registros procesados: 1
+2026-04-20 13:51:44,938 - INFO - === FIN PIPELINE ===
