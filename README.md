@@ -1,9 +1,19 @@
-# Script de Ingesta de Datos
+# Data Pipeline - Ingesta de Datos
 
-Este script permite la ingesta automática de datos desde una fuente estructurada (API pública), su organización y almacenamiento en un archivo CSV.
+Este proyecto implementa un pipeline básico de datos en Python que:
 
-## Cómo Ejecutar
+- Extrae datos desde una API pública
+- Transforma los datos a un formato estructurado
+- Los almacena en un archivo CSV
+- Registra logs del proceso
 
-1. Clona este repositorio:
-   ```bash
-   git clone <URL de tu repositorio>
+## Requisitos
+pip install -r requirements.txt
+
+## Ejecución
+cd src
+python main.py
+
+## Output
+- data/users.csv
+- logs/pipeline.log
